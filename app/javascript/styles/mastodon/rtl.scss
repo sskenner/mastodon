@@ -51,6 +51,7 @@ body.rtl {
   .announcements__mastodon,
   .drawer__inner__mastodon > img {
     transform: scaleX(-1);
+    display: none;
   }
 
   .notification__favourite-icon-wrapper {
